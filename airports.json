@@ -1,0 +1,65 @@
+[{
+ "airportID" : 340,
+ "name" : "Frankfurt am Main International Airport",
+ "city" : "Frankfurt",
+ "country" : "Germany",
+ "latitude" : 50.0333333,
+ "longitude" : 8.5705556,
+ "iata" : "FRA"
+}, {
+ "airportID" : 507,
+ "name" : "London Heathrow Airport",
+ "city" : "London",
+ "country" : "United Kingdom",
+ "latitude" : 51.4706,
+ "longitude" : -0.461941,
+ "iata" : "LHR"
+}, {
+ "airportID" : 580,
+ "name" : "Amsterdam Airport Schiphol",
+ "city" : "Amsterdam",
+ "country" : "Netherlands",
+ "latitude" : 52.3086013794,
+ "longitude" : 4.763889789579999,
+ "iata" : "AMS"
+}, {
+ "airportID" : 669,
+ "name" : "John Paul II International Airport Kraków-Balice Airport",
+ "city" : "Krakow",
+ "country" : "Poland",
+ "latitude" : 50.077701568603516,
+ "longitude" : 19.784799575805664,
+ "iata" : "KRK"
+}, {
+ "airportID" : 1382,
+ "name" : "Charles de Gaulle International Airport",
+ "city" : "Paris",
+ "country" : "France",
+ "latitude" : 49.0127983093,
+"longitude" : 2.54999995232,
+ "iata" : "CDG"
+}, {
+ "airportID" : 1587,
+ "name" : "Václav Havel Airport Prague",
+ "city" : "Prague",
+ "country" : "Czech Republic",
+ "latitude" : 50.1008,
+ "longitude" : 14.26,
+ "iata" : "PRG"
+}, {
+ "airportID" : 1678,
+ "name" : "Zürich Airport",
+ "city" : "Zurich",
+ "country" : "Switzerland",
+ "latitude" : 47.464698791504,
+ "longitude" : 8.5491695404053,
+ "iata" : "ZRH"
+}, {
+ "airportID" : 1739,
+ "name" : "Belgrade Nikola Tesla Airport",
+ "city" : "Belgrade",
+ "country" : "Serbia",
+ "latitude" : 44.8184013367,
+ "longitude" : 20.3090991974,
+ "iata" : "BEG"
+}]

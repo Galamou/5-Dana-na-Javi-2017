@@ -1,0 +1,25 @@
+[{
+ "fromAirport" : "BEG",
+ "toAirport" : "FRA"
+}, {
+ "fromAirport" : "FRA",
+ "toAirport" : "CDG"
+}, {
+ "fromAirport" : "CDG",
+ "toAirport" : "LHR"
+},{
+ "fromAirport" : "LHR",
+ "toAirport" : "ZRH"
+},{
+ "fromAirport" : "ZRH",
+ "toAirport" : "KRK"
+},{
+ "fromAirport" : "KRK",
+ "toAirport" : "AMS"
+},{
+ "fromAirport" : "LHR",
+ "toAirport" : "PRG"
+},{
+ "fromAirport" : "PRG",
+ "toAirport" : "AMS"
+}]
