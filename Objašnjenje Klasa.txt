@@ -1,0 +1,39 @@
+Objasnjenje klasa:
+
+1. Init
+
+Inicijalizacija programa.
+Sadrzi main() funkciju i ucitava potrebne podatke.
+Takodje, racuna distance izmedju gradova na osnovu zadatih ruta.
+Potom, u zavisnosti od uslova, poziva Dijkstra klasu tj. njenu metodu za pocetak algoritma.
+
+2. Airport
+
+Sadrzi podatke zadatih aerodroma.
+Takodje, sadrzi veze izmedju gradova ka kojima moze da se putuje i obrnuto.
+
+3. Connection
+
+Obicna veza.
+Airport klasa sadrzi listu ovih veza sa drugim aerodromovima.
+
+Ova klasa ima polja: ID aerodroma, distanca.
+
+3. ConnectionVisit
+
+Ovo je produzetak klase Connection.
+Ima dodatno polje tipa boolean koje sluzi u Dijkstra algoritmu.
+
+4. Dijkstra
+
+Glavno mesto izracunavanja.
+
+Sadrzi sve aerodrome i rute potrebne za izvrsavanje algoritma.
+
+Metoda startDijkstra() pokrece Dijkstra algoritam na osnovu unetih podataka.
+Na kraju ispisuje putanju kojom korisnik ide na osnovu unosa.
+
+5. Route
+
+Klasa za ucitavanje ruta.
+Ima 2 polja koja sluze za: polazni aerodrom, krajnji aerodrom.
